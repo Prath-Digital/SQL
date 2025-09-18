@@ -1,7 +1,7 @@
 -- Create Database named school_db
-CREATE DATABASE school_db;
-
 DROP DATABASE IF EXISTS school_db;
+
+CREATE DATABASE school_db;
 
 -- Use Database
 USE school_db;
