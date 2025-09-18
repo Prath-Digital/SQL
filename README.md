@@ -106,6 +106,18 @@ For questions, suggestions, or collaboration:
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.1/">Self Exercises</a></span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">1.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Introduction to SQL</span></li>
+          <li><span style="color:#1976d2;">Types of SQL Commands: DDL, DQL, DML, DCL</span></li>
+          <li><span style="color:#388e3c;">All CRUD operation related SQL queries</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_1/lec_1.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.2/">Self Exercises</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
