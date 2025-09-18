@@ -8,7 +8,7 @@ USE school_db;
 
 -- Create Table named students with columns id, name, age, class, and grade
 CREATE TABLE
-    IF NOT EXISTS students (
+    students (
         id INTEGER PRIMARY KEY AUTO_INCREMENT,
         name VARCHAR(50) NOT NULL,
         age INTEGER (2) NOT NULL,

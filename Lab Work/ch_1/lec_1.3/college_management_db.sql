@@ -8,7 +8,7 @@ USE college_management_db;
 
 -- Q1
 CREATE TABLE
-    IF NOT EXISTS students (
+    students (
         student_id INT AUTO_INCREMENT PRIMARY KEY,
         name VARCHAR(50) NOT NULL,
         age INT NOT NULL,
@@ -26,7 +26,7 @@ VALUES
 ---
 -- Q2
 CREATE TABLE
-    IF NOT EXISTS products (
+    products (
         product_id INT AUTO_INCREMENT PRIMARY KEY,
         product_name VARCHAR(50) NOT NULL,
         category VARCHAR(30) NOT NULL,
