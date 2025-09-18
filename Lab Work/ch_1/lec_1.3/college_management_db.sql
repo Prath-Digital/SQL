@@ -1,6 +1,8 @@
 SHOW DATABASES;
 
-CREATE DATABASE IF NOT EXISTS college_management_db;
+DROP DATABASE IF EXISTS college_management_db;
+
+CREATE DATABASE college_management_db;
 
 USE college_management_db;
 

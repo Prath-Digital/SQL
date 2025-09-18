@@ -1,14 +1,16 @@
 -- Q1
 SHOW DATABASES;
 
-CREATE DATABASE IF NOT EXISTS company_db;
+DROP DATABASE IF EXISTS company_db;
+
+CREATE DATABASE company_db;
 
 USE company_db;
 
 ---
 -- Q2
 CREATE TABLE
-    IF NOT EXISTS employees (
+    employees (
         emp_id INT PRIMARY KEY,
         emp_name VARCHAR(50),
         department VARCHAR(50),
@@ -64,7 +66,7 @@ WHERE
 ---
 -- Q5
 CREATE TABLE
-    IF NOT EXISTS products (
+    products (
         product_id INT PRIMARY KEY,
         product_name VARCHAR(50),
         category VARCHAR(50),
