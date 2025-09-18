@@ -7,7 +7,7 @@ CREATE DATABASE company_db;
 
 USE company_db;
 
----
+-- Question over
 -- Q2
 CREATE TABLE
     employees (
@@ -17,7 +17,7 @@ CREATE TABLE
         salary DECIMAL(10, 2)
     );
 
----
+-- Question over
 -- Q3
 INSERT INTO
     employees (emp_id, emp_name, department, salary)
@@ -46,7 +46,7 @@ FROM
 WHERE
     salary > 50000;
 
----
+-- Question over
 -- Q4
 INSERT INTO
     employees (emp_id, emp_name, department, salary)
@@ -63,7 +63,7 @@ DELETE FROM employees
 WHERE
     emp_id = 6;
 
----
+-- Question over
 -- Q5
 CREATE TABLE
     products (
@@ -89,7 +89,7 @@ VALUES
     (4, 'Notebook', 'Stationery', 5.00, 100),
     (5, 'Pen', 'Stationery', 2.00, 200);
 
----
+-- Question over
 -- Q6
 SELECT
     *
@@ -110,7 +110,7 @@ FROM
 WHERE
     price < 100;
 
----
+-- Question over
 -- Q7
 UPDATE products
 SET
@@ -124,7 +124,7 @@ SET
 WHERE
     product_id = 1;
 
----
+-- Question over
 -- Q8
 DELETE FROM products
 WHERE
@@ -134,4 +134,4 @@ DELETE FROM products
 WHERE
     stock_quantity = 0;
 
----
+-- Question over

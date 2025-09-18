@@ -23,7 +23,7 @@ VALUES
     ('Bob', 22, 'B', 'bob@example.com'),
     ('Charlie', 21, 'A', 'charlie@example.com');
 
----
+-- Question over
 -- Q2
 CREATE TABLE
     products (
@@ -43,7 +43,7 @@ VALUES
     ('Headphones', 'Accessories', 199.99, 30),
     ('Charger', 'Accessories', 29.99, 100);
 
----
+-- Question over
 -- Q3
 SELECT
     *
@@ -56,7 +56,7 @@ SELECT
 FROM
     students;
 
----
+-- Question over
 -- Q4
 SELECT
     *
@@ -72,14 +72,14 @@ FROM
 WHERE
     price > 500;
 
----
+-- Question over
 -- Q5
 SELECT DISTINCT
     category
 FROM
     products;
 
----
+-- Question over
 -- Q6
 UPDATE students
 SET
@@ -87,7 +87,7 @@ SET
 WHERE
     student_id = 2;
 
----
+-- Question over
 -- Q7
 UPDATE products
 SET
@@ -99,7 +99,7 @@ SET
 WHERE
     product_id = 3;
 
----
+-- Question over
 -- Q8
 UPDATE students
 SET
@@ -107,25 +107,25 @@ SET
 WHERE
     grade = 'A';
 
----
+-- Question over
 -- Q9
 DELETE FROM students
 WHERE
     student_id = 3;
 
----
+-- Question over
 -- Q10
 DELETE FROM products
 WHERE
     stock_quantity = 0;
 
----
+-- Question over
 -- Q11
 DELETE FROM students
 WHERE
     age > 21;
 
----
+-- Question over
 -- Q12
 INSERT INTO
     products (
@@ -148,7 +148,7 @@ DELETE FROM products
 WHERE
     product_id = 6;
 
----
+-- Question over
 -- Q13
 ALTER TABLE students
 ADD COLUMN address VARCHAR(100);
