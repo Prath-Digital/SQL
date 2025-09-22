@@ -7,12 +7,21 @@ Welcome to the SQL Qu repository! This collection showcases various SQL scripts,
 ## 📝 About
 
 This repository contains a variety of SQL Queries, including:
+
 - Database schema design
 - Data manipulation queries (CRUD)
 - Advanced SQL queries (joins, subqueries, window functions)
 - Sample datasets for practice
 - Real-world case studies
 
+---
+## 🏋️‍♂️ Exercises
+- For SQL Exercises, please visit [Exercises](https://s.craft.me/q1idsSXegahG8t).
+
+---
+## 🧪 Lab Work & Self Exercises
+- For SQL Lab Work, please visit [Lab Work](./Lab%20Work/).
+- For SQL Self Exercises, please visit [Self Exercises](./Self%20Exercises/).
 ---
 
 ## ✨ Features
@@ -49,6 +58,7 @@ This repository contains a variety of SQL Queries, including:
 
 Contributions are welcome!  
 To contribute:
+
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-name`)
 3. Commit your changes
@@ -62,8 +72,8 @@ This repository is licensed under the MIT License.
 
 ---
 
-
 ## 📬 Contact
+
 For questions, suggestions, or collaboration:
 
 - **Author:** Prath-Digital
@@ -115,7 +125,7 @@ For questions, suggestions, or collaboration:
           <li><span style="color:#388e3c;">All CRUD operation related SQL queries</span></li>
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_1/lec_1.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.2/">Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff; color:#000;">
@@ -126,6 +136,25 @@ For questions, suggestions, or collaboration:
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_1/lec_1.3/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.3/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>SQL Constraints & Normalizations</b></td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">2.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Clauses (WHERE, HAVING, LIMIT)</span></li>
+          <li><span style="color:#1976d2;">Operators (AND, OR, NOT)</span></li>
+          <li><span style="color:#388e3c;">Keywords (ORDER BY)</span></li>
+          <li><span style="color:#fbc02d;">Statements (GROUP BY)</span></li>
+          <li><span style="color:#7b1fa2;">Aggregate functions (SUM, AVG, MAX, MIN, COUNT)</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_2/lec_2.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_2/lec_2.1/">Self Exercises</a></span>
       </td>
     </tr>
   </tbody>
