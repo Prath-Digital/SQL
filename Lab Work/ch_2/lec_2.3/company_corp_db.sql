@@ -80,9 +80,7 @@ VALUES
 -- This will fail due to PRIMARY KEY constraint
 -- Q5: Create a table departments with the following structure:
 CREATE TABLE
-    departments (
-        dept_id INT PRIMARY KEY, dept_name VARCHAR(50)
-    );
+    departments (dept_id INT PRIMARY KEY, dept_name VARCHAR(50));
 
 -- Create a table employees with the following structure:
 CREATE TABLE
@@ -177,24 +175,24 @@ CREATE DATABASE company2_corp_db;
 USE company2_corp_db;
 
 CREATE TABLE
-    departments (dept_id INT PRIMARY KEY);
+    departments_v2 (dept_id INT PRIMARY KEY);
 
 CREATE TABLE
-    employees (
+    employees_v2 (
         emp_id INT PRIMARY KEY,
         dept_id INT,
         FOREIGN KEY (dept_id) REFERENCES departments (dept_id)
     );
 
 CREATE TABLE
-    projects (
+    projects_v2 (
         project_id INT PRIMARY KEY,
         dept_id INT,
         FOREIGN KEY (dept_id) REFERENCES departments (dept_id)
     );
 
 CREATE TABLE
-    project_assignments (
+    project_assignments_v2 (
         emp_id INT,
         project_id INT,
         FOREIGN KEY (emp_id) REFERENCES employees (emp_id),
