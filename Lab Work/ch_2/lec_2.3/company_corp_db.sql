@@ -168,6 +168,12 @@ FROM
     JOIN departments d ON p.dept_id = d.dept_id;
 
 -- Q9: Simulate a company database with the following tables:
+DROP DATABASE IF EXISTS company2_corp_db;
+
+CREATE DATABASE company2_corp_db;
+
+USE company2_corp_db;
+
 CREATE TABLE
     departments (dept_id INT PRIMARY KEY);
 
