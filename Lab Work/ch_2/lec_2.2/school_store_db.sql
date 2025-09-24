@@ -286,4 +286,4 @@ VALUES
     (3, 3, 3, '2025-09-03', 3);
 
 -- Q8: Delete a record from the customers table and observe the cascading effect on the orders table
-DELETE FROM customers WHERE customer_id = 1; -- This will delete the customer and associated orders due to ON DELETE CASCADE
+-- DELETE FROM customers WHERE customer_id = 1; -- This will delete the customer and associated orders due to ON DELETE CASCADE
