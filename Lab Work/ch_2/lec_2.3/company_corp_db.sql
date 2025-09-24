@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS company_corp_db;
+
+CREATE DATABASE company_corp_db;
+
+USE company_corp_db;
+
 -- Q1: Create a table employees with the following structure:
 CREATE TABLE
     employees (
