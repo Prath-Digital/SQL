@@ -80,7 +80,9 @@ VALUES
 -- This will fail due to PRIMARY KEY constraint
 -- Q5: Create a table departments with the following structure:
 CREATE TABLE
-    departments (dept_id INT PRIMARY KEY, dept_name VARCHAR(50));
+    departments (
+        dept_id INT PRIMARY KEY, dept_name VARCHAR(50)
+    );
 
 -- Create a table employees with the following structure:
 CREATE TABLE
