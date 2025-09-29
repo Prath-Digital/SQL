@@ -14,16 +14,6 @@ This repository contains a variety of SQL Queries, including:
 - Sample datasets for practice
 - Real-world case studies
 
----
-## 🏋️‍♂️ Exercises
-- For SQL Exercises, please visit [Exercises](https://s.craft.me/q1idsSXegahG8t).
-
----
-## 🧪 Lab Work & Self Exercises
-- For SQL Lab Work, please visit [Lab Work](./Lab%20Work/).
-- For SQL Self Exerci11111ses, please visit [Self Exercises](./Self%20Exercises/).
----
-
 ## ✨ Features
 
 - Well-organized SQL scripts
@@ -186,6 +176,21 @@ For questions, suggestions, or collaboration:
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
           PR. 1 Data Digger
         </span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">3</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 1 Data Digger</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">3.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. 1 Data Digger</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/SQL_PR.-1-Data-Digger" target="_blank">Code</a></span>
       </td>
     </tr>
   </tbody>
