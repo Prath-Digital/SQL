@@ -253,11 +253,11 @@ For questions, suggestions, or collaboration:
     </tr>
   </thead>
   <tr style="background:#222;color:#fff;">
-      <td style="padding:10px 8px;border:2px solid #fff;">1</td>
-      <td style="padding:10px 8px;border:2px solid #fff;"><b>Intro to Database & SQL</b></td>
+      <td style="padding:10px 8px;border:2px solid #fff;">5</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Data manipulation and Window functions</b></td>
     </tr>
     <tr style="background:#fff; color:#000;">
-      <td style="padding:10px 8px;border:2px solid #000;">1.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">5.1</td>
       <td style="padding:10px 8px;border:2px solid #000;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">Date Time manipulation functions and operators</span></li>
