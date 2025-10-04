@@ -129,6 +129,12 @@ For questions, suggestions, or collaboration:
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
     <tr style="background:#222;color:#fff;">
       <td style="padding:10px 8px;border:2px solid #fff;">2</td>
       <td style="padding:10px 8px;border:2px solid #fff;"><b>SQL Constraints & Normalizations</b></td>
@@ -179,6 +185,12 @@ For questions, suggestions, or collaboration:
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
     <tr style="background:#222;color:#fff;">
       <td style="padding:10px 8px;border:2px solid #fff;">3</td>
       <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 1 Data Digger</b></td>
@@ -193,6 +205,12 @@ For questions, suggestions, or collaboration:
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
     <tr style="background:#222;color:#fff;">
       <td style="padding:10px 8px;border:2px solid #fff;">4</td>
       <td style="padding:10px 8px;border:2px solid #fff;"><b>Joins and Subqueries</b></td>
@@ -225,6 +243,28 @@ For questions, suggestions, or collaboration:
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <thead>
+    <tr style="background:#000;color:#fff;">
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
+      <th style="padding:10px 8px;border:2px solid #fff;background:#000;">Topics</th>
+    </tr>
+  </thead>
+  <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">1</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Intro to Database & SQL</b></td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">1.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Date Time manipulation functions and operators</span></li>
+          <li><span style="color:#1976d2;">String manipulation functions and operators</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_5/lec_5.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.1/">Self Exercises</a></span>
       </td>
     </tr>
   </tbody>
