@@ -179,7 +179,6 @@ For questions, suggestions, or collaboration:
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
-    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
     <tr style="background:#222;color:#fff;">
       <td style="padding:10px 8px;border:2px solid #fff;">3</td>
       <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 1 Data Digger</b></td>
@@ -191,6 +190,41 @@ For questions, suggestions, or collaboration:
           <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. 1 Data Digger</span></li>
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/SQL_PR.-1-Data-Digger" target="_blank">Code</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Joins and Subqueries</b></td>
+    </tr>
+    <tr style="background:#fff; color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">4.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">INNER, OUTER, LEFT, RIGHT JOINS</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">4.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Combinations (CROSS, SELF) to link related information</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.2/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">4.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Working with Subquery / Nested query / Inner query</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
       </td>
     </tr>
   </tbody>
