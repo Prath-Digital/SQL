@@ -268,7 +268,7 @@ For questions, suggestions, or collaboration:
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
-      <td style="padding:10px 8px;border:2px solid #fff;">2.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">5.2</td>
       <td style="padding:10px 8px;border:2px solid #fff;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">Window Functions</span></li>
