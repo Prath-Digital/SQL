@@ -267,6 +267,21 @@ For questions, suggestions, or collaboration:
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.1/">Self Exercises</a></span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">2.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Window Functions</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_5/lec_5.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.2/">Self Exercises</a></span>
+        <br>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 2 Data Transformer
+        </span>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
